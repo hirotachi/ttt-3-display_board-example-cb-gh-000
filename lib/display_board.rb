@@ -6,3 +6,5 @@ def display_board
   11.times print "-"
   print (" ", "|", " ", "|", " ")
 end
+
+display_board
